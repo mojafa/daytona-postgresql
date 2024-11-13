@@ -1,0 +1,9 @@
+{
+    "name": "PostgreSQL Dev Container Playground",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {
+        "ghcr.io/itsmechlark/features/postgresql:1": {
+            "version": "latest"
+        }
+    }  
+}
